@@ -1,4 +1,5 @@
-# node_mysql
+# node_mysql_demo
+
 使用node连接mysql的demo案例
 
 新建文件夹demo
